@@ -1,1 +1,2 @@
-# shuffle
+# Shuffle
+Collection of shuffling simulations
